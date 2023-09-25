@@ -1,0 +1,12 @@
+C:\Users\mgrac\source\repos\994\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+C:\Users\mgrac\source\repos\994\ProjectFinal\bin\Debug\ProjectFinal.exe
+C:\Users\mgrac\source\repos\994\ProjectFinal\bin\Debug\ProjectFinal.pdb
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.csproj.AssemblyReference.cache
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.FormInscription.resources
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.FormTest.resources
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.exe
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.pdb
+C:\Users\mgrac\source\repos\994\ProjectFinal\obj\Debug\ProjectFinal.FormLogin.resources
